@@ -1,0 +1,12 @@
+Best k: 5
+Test Accuracy: 0.944
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.95      0.94        63
+           1       0.95      0.94      0.94        62
+
+    accuracy                           0.94       125
+   macro avg       0.94      0.94      0.94       125
+weighted avg       0.94      0.94      0.94       125

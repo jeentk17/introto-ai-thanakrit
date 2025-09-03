@@ -1,0 +1,13 @@
+Timestamp: 2025-09-03T12:55:35.255751
+Best Params: {'clf__criterion': 'entropy', 'clf__max_depth': 8, 'clf__min_samples_leaf': 1, 'clf__min_samples_split': 5}
+Test Accuracy: 0.887
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.89      0.89        74
+           1       0.89      0.88      0.89        76
+
+    accuracy                           0.89       150
+   macro avg       0.89      0.89      0.89       150
+weighted avg       0.89      0.89      0.89       150

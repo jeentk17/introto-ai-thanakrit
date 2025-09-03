@@ -1,0 +1,12 @@
+Best Params: {'clf__C': 10, 'clf__gamma': 0.01, 'clf__kernel': 'rbf'}
+Test Accuracy: 0.880
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.853     0.921     0.885        63
+           1      0.912     0.839     0.874        62
+
+    accuracy                          0.880       125
+   macro avg      0.883     0.880     0.880       125
+weighted avg      0.882     0.880     0.880       125

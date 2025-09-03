@@ -1,0 +1,14 @@
+Demo 4: Naïve Bayes Classification
+Test Accuracy: 0.901
+
+Classification Report:
+                       precision    recall  f1-score   support
+
+   rec.sport.baseball       0.81      0.89      0.85       232
+     rec.sport.hockey       0.90      0.91      0.90       261
+            sci.space       0.97      0.90      0.93       261
+talk.politics.mideast       0.92      0.91      0.92       226
+
+             accuracy                           0.90       980
+            macro avg       0.90      0.90      0.90       980
+         weighted avg       0.90      0.90      0.90       980
